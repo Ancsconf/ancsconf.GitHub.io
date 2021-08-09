@@ -19,23 +19,23 @@ window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1
 </script>
 <script>
 
-  
+
 
   var breadcrumbs = [{"path":"/past-events","deleted":false,"title":"Past Events","dir":"ltr"}];
   var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/6c3180/system/app/images/cleardot.gif';
 
-  
+
   var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
 
-  
-  
 
-  
+
+
+
 
   var webspace = {"gvizGstaticVersion":"current","enableAnalytics":true,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://2073294682-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":false,"sharingPolicy":"OPENED_WITH_INDICATOR","siteTitle":"ACM/IEEE Symposium on Architectures for Networking and Communications Systems","experiments":{"enableSubpagesGadgetInTakeout":true,"DisableSiteEditingFeature__disable_site_editing":true,"disableDomainEditing":false},"jot2atari":{"eligibility":"INELIGIBLE"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"moreMobileStyleImprovements":null,"subscriptionDataMigrationInProgress":null,"plusBadge":false},"configProperties":{"disableSiteEditing":null},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttp://sites.google.com/a/ancsconf.org/www/past-events\u0026service\u003djotspot","analyticsAccountId":"UA-4862002-1","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"http://csi.gstatic.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["http://www.gstatic.com/sites/p/6c3180/system/app/css/sitelayouteditor.css"],"text":["http://www.gstatic.com/sites/p/6c3180/system/js/codemirror.js","http://www.gstatic.com/sites/p/6c3180/system/app/css/codemirror_css.css","http://www.gstatic.com/sites/p/6c3180/system/js/trog_edit__en.js","http://www.gstatic.com/sites/p/6c3180/system/app/css/trogedit.css","/_/rsrc/1623914464000/system/app/css/editor.css","http://www.gstatic.com/sites/p/6c3180/system/app/css/codeeditor.css","/_/rsrc/1623914464000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"ancsconf.org","baseUri":"","name":"www","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"Past Events","locale":"en","wuid":"wuid:gx:1eaf737fb1f2e33","revision":18,"path":"/past-events","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"past-events","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/system/app/pages/gadgets"}};
   webspace.page.breadcrumbs = breadcrumbs;
 
-  
+
   var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
 
 </script>
@@ -100,7 +100,7 @@ window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1
 </h3>
 <div id="sites-canvas-main" class="sites-canvas-main">
 <div id="sites-canvas-main-content">
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><span style="font-size:medium">Welcome to the ACM/IEEE Symposium on Architectures for Networking and Communications Systems.  The prior symposia held at the following locations.</span>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><span style="font-size:medium">Welcome to the ACM/IEEE Symposium on Architectures for Networking and Communications Systems.  The prior symposia were held at the following locations.</span>
 <div>
 <ul>
 <li><a href="http://sites.google.com/a/ancsconf.org/2018/home" style="font-size:medium">ANCS 2018</a><span style="font-size:medium">, held in Ithaca, NY</span></li><li><span style="font-size:medium"><a href="https://sites.google.com/a/ancsconf.org/2017/">ANCS 2017</a>, held in Beijing, China</span><br /></li><li><span style="font-size:medium"><a href="https://sites.google.com/a/ancsconf.org/2016/">ANCS 2016</a>, held in Santa Clara, CA</span></li><li><span style="font-size:medium"><a href="https://sites.google.com/a/ancsconf.org/2015/">ANCS 2015</a>, held in Oakland, CA</span></li><li><span style="font-size:medium"><a href="https://sites.google.com/a/ancsconf.org/2014/">ANCS 2014</a>, held in Marina Del Rey, CA</span></li><li><a href="https://sites.google.com/a/ancsconf.org/2013/" style="font-size:medium;line-height:1.6;background-color:transparent">ANCS 2013</a><span style="font-size:medium;line-height:1.6;background-color:transparent">, held in San Jose, CA</span></li>
@@ -115,19 +115,19 @@ window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1
 </div>
 <div><br />
 </div></div></td></tr></tbody></table>
-</div> 
-</div> 
+</div>
+</div>
 <div id="sites-canvas-bottom-panel">
 <div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
 <div id="sites-attachments-container">
 </div>
 </div>
-</div> 
-</td> 
+</div>
+</td>
 </tr>
-</table> 
-</div> 
-</div> 
+</table>
+</div>
+</div>
 <div id="sites-chrome-footer-wrapper">
 <div id="sites-chrome-footer-wrapper-inside">
 <div id="sites-chrome-footer">
@@ -135,13 +135,13 @@ window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1
 </div>
 </div>
 </div>
-</div> 
-</div> 
+</div>
+</div>
 <div id="sites-chrome-adminfooter-container">
 <div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="http://sites.google.com/a/ancsconf.org/www/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
 </div>
-</div> 
-</div> 
+</div>
+</div>
 <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
     window.jstiming.load.tick('sjl');
   </script>
